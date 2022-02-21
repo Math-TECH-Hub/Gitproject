@@ -9,3 +9,4 @@ Instructions
 4. Create a file with a unique name
 5. Put any text into the file
 6. Commit your file
+7. synchronise your files
